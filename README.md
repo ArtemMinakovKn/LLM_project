@@ -5,7 +5,7 @@
 This project explores the feasibility of using LLMs for algorithmic trading by analyzing news articles. It investigates how LLMs can enhance trading strategies based on news events, aiming to improve prediction accuracy and adaptability in dynamic market conditions.
 
 ## Data
-Daily Financial News for 6000+ Stocks gained by [Kaggle] (https://www.kaggle.com/datasets/miguelaenlle/massive-stock-news-analysis-db-for-nlpbacktests/data)https://www.kaggle.com/datasets/miguelaenlle/massive-stock-news-analysis-db-for-nlpbacktests/data)
+Daily Financial News for 6000+ Stocks gained by [Kaggle - Massive Stock News Analysis DB for NLP Backtests](https://www.kaggle.com/datasets/miguelaenlle/massive-stock-news-analysis-db-for-nlpbacktests/data)
 
 ## Methodology 
 Utilizing the 'Daily Financial News for 6000+ Stocks' dataset from Kaggle, containing 843,062 news events from Benzinga between 2010 and 2022, we focus on 50 S&P 500 companies with the most connected news events. Additionally, historical market data from Yahoo Finance for all S&P 500 stocks is collected to correlate news events with stock prices.
